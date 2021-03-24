@@ -1,4 +1,2 @@
 # SakurClient
-#by xxAROX, ....
-
- - [Intro](https://gist.github.com/HybridEidolon/fe467dab9eb885981ddd)
+ - [Forge Docs](https://mcforge.readthedocs.io/en/1.15.x/)
